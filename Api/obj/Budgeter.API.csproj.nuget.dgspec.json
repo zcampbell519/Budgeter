@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zcamp\\source\\repos\\Budgeter\\Api\\Budgeter.API.csproj": {}
+    "C:\\Users\\zcamp\\source\\repos\\Budgeter\\api\\Budgeter.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zcamp\\source\\repos\\Budgeter\\Api\\Budgeter.API.csproj": {
+    "C:\\Users\\zcamp\\source\\repos\\Budgeter\\api\\Budgeter.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zcamp\\source\\repos\\Budgeter\\Api\\Budgeter.API.csproj",
+        "projectUniqueName": "C:\\Users\\zcamp\\source\\repos\\Budgeter\\api\\Budgeter.API.csproj",
         "projectName": "Budgeter.API",
-        "projectPath": "C:\\Users\\zcamp\\source\\repos\\Budgeter\\Api\\Budgeter.API.csproj",
+        "projectPath": "C:\\Users\\zcamp\\source\\repos\\Budgeter\\api\\Budgeter.API.csproj",
         "packagesPath": "C:\\Users\\zcamp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zcamp\\source\\repos\\Budgeter\\Api\\obj\\",
+        "outputPath": "C:\\Users\\zcamp\\source\\repos\\Budgeter\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zcamp\\AppData\\Roaming\\NuGet\\NuGet.Config",

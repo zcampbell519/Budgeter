@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bh6BhDZi5pdn7M6aMtZhnGDy9epEfJ3yuK9dxuqpZ6wZDA/wwd7FiA3q/BWV5CKBiyqSsBjnZ9wU0FK5CPoYww==",
+  "dgSpecHash": "u7ALebfBNtg/iZPXz7lxrMpuYEQRNkU8WRVnNf0DMeGXXAVn/7sfjD0SB/qKkloxXc7J5HRLsbONLGZWMqKy8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zcamp\\source\\repos\\Budgeter\\Api\\Budgeter.API.csproj",
+  "projectFilePath": "C:\\Users\\zcamp\\source\\repos\\Budgeter\\api\\Budgeter.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zcamp\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\zcamp\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
