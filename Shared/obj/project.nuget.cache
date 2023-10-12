@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zwEFjG2Cfm6gEm3qqrJKUVH1odRw1BXc69oNS2ehxrvPKCSG/p2IR68DHhfE2FqWUAqY8HRH2YenjnBdlQn57Q==",
+  "dgSpecHash": "TrR1FzorI8oEd0rW3bBanlvHrIOwmqp45J4/xg3NSpZudE4z/E3kpZiG+r1q3V0jEjOKxNs+/9Ejz54nPHniLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zcamp\\source\\repos\\Budgeter\\Shared\\Budgeter.Shared.csproj",
+  "projectFilePath": "C:\\Users\\zcamp\\source\\repos\\Budgeter\\shared\\budgeter.shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

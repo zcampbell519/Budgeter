@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zcamp\\source\\repos\\Budgeter\\Shared\\Budgeter.Shared.csproj": {}
+    "C:\\Users\\zcamp\\source\\repos\\Budgeter\\shared\\budgeter.shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zcamp\\source\\repos\\Budgeter\\Shared\\Budgeter.Shared.csproj": {
+    "C:\\Users\\zcamp\\source\\repos\\Budgeter\\shared\\budgeter.shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zcamp\\source\\repos\\Budgeter\\Shared\\Budgeter.Shared.csproj",
-        "projectName": "Budgeter.Shared",
-        "projectPath": "C:\\Users\\zcamp\\source\\repos\\Budgeter\\Shared\\Budgeter.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\zcamp\\source\\repos\\Budgeter\\shared\\budgeter.shared.csproj",
+        "projectName": "budgeter.shared",
+        "projectPath": "C:\\Users\\zcamp\\source\\repos\\Budgeter\\shared\\budgeter.shared.csproj",
         "packagesPath": "C:\\Users\\zcamp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zcamp\\source\\repos\\Budgeter\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\zcamp\\source\\repos\\Budgeter\\shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zcamp\\AppData\\Roaming\\NuGet\\NuGet.Config",

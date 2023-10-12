@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "budgeter.api", "api\budgeter.api.csproj", "{62D8D4F1-C0A7-40A5-8B10-83FF9BF10FB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "budgeter.ui", "ui\budgeter.ui.csproj", "{E989FB85-161A-42D1-AA15-EAC0958641B2}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "budgeter.shared", "shared\budgeter.shared.csproj", "{212F3D99-204D-42FC-AFB7-4B04F3A77F76}"
 EndProject
 Global
